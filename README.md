@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&color=6BF765&lines=Hey!+I'm+Ciculs)](https://github.com/Ciculs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=15F7C7&vCenter=true&width=435&lines=Hey+!+I'm+Ciculs+%2C+Welcome+to+My+Repo)](https://github.com/Ciculs)
 
 Hi guys, I'm **Ciculs**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Vietnamese, ?????**.
 
