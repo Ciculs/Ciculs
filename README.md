@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ciculs&color=53ed6b&style=flat-square)
 
-Hi guys, I'm **Ciculs**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Vietnamese, Ha Nam**.
+Hi guys, I'm **Ciculs**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Ha Nam, Vietnam**.
 
 - 💼 Contact me on discord at: Ciculs#2992
 - 💬 Do add me on discord or facebook too if you just want to have a chat!
