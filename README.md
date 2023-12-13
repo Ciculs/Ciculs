@@ -9,13 +9,23 @@ Hi guys, I'm **Ciculs**. I am a ... from <img alt="Vietnamese Flag" src="https:/
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/697320993621803088)](https://discord.com/users/697320993621803088)
 
+<h2>⚡ Recent Activity</h2>
+<img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=Ciculs&theme=react-dark&hide_border=true" />
+
 <h2>⚡ Stats</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Ciculs&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
+ <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Ciculs&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciculs&theme=react&hide_border=true" />
+    </td>
+  </tr>
+</table>
 </p>
-
-**CRE**: erutluZ
