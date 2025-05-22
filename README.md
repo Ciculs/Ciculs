@@ -7,7 +7,7 @@ Hi guys, I'm **Ciculs**. I am a ... from <img alt="Vietnamese Flag" src="https:/
 - 💼 Contact me on discord at: Ciculs#2992
 - 💬 Do add me on discord or facebook too if you just want to have a chat!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/697320993621803088)](https://discord.com/users/697320993621803088)
+[![Discord Presence](https://lanyard.cnrad.dev/api/697320993621803088?bg=00FF2E&idleMessage=Currently%20Available&theme=dark)](https://discord.com/users/697320993621803088)
 
 <h2>⚡ Recent Activity</h2>
 <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=Ciculs&theme=react-dark&hide_border=true" />
